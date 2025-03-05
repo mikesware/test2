@@ -1,0 +1,1 @@
+net use y: \\mojo\software /User:mikesware\mike cfbead4

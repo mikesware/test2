@@ -1,0 +1,1 @@
+NET USE  Z: /DELETE /y
